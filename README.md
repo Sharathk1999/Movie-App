@@ -16,7 +16,7 @@ The Movie Finder App is a Flutter-based application designed to showcase movies 
 🚀Bottom Navigation: Seamless navigation between the Home Screen and the Search Screen using a bottom navigation bar.
 
 
-Watch On Youtube <a href="">📲Youtube Video🖥️</a>
+Watch On Youtube <a href="https://youtube.com/shorts/QHVI1PlH7lk?feature=share">📲Youtube Video🖥️</a>
 
 # API Endpoints:
 Home Screen: Fetches all movies from: 
@@ -25,7 +25,7 @@ Search Screen: Searches movies using the endpoint:
 https://api.tvmaze.com/search/shows?q={search_term}
 
 
-  <a href="https://github.com/Sharathk1999/FindIt-Ecommerce-App/releases/download/1.0/app-release.apk"> ![The Movie App Download](https://github.com/Sharathk1999/FindIt-Ecommerce-App/blob/main/Images/Download%201.jpg) </a>
+  <a href="https://github.com/Sharathk1999/Movie-App/releases/download/1.0/app-release.apk"> ![The Movie App Download](https://github.com/Sharathk1999/Movie-App/blob/main/Images/2.jpg) </a>
 
 
   
@@ -34,8 +34,8 @@ https://api.tvmaze.com/search/shows?q={search_term}
 
 ## Screenshots
 
-![FindIt](https://github.com/Sharathk1999/FindIt-Ecommerce-App/blob/main/Images/1.jpg)
-![Welcome](https://github.com/Sharathk1999/FindIt-Ecommerce-App/blob/main/Images/2.jpg)
+![The Movie App](https://github.com/Sharathk1999/Movie-App/blob/main/Images/1.jpg)
+![Movie App](https://github.com/Sharathk1999/Movie-App/blob/main/Images/2.jpg)
 
 
 
@@ -55,7 +55,7 @@ This section guides you through setting up and running the The Movie App.
 1. **Clone the Repository:**
 
 ```bash
-git clone https://your-github-repo-url.git
+git clone https://github.com/Sharathk1999/Movie-App.git
 ```
 
 **Caution:** Replace `https://your-github-repo-url.git` with the actual URL of the project Git repository.
@@ -63,7 +63,7 @@ git clone https://your-github-repo-url.git
 2. **Navigate to Project Directory:**
 
 ```bash
-cd FindIt App
+cd Movie App
 ```
 
 3. **Install Dependencies:**
@@ -84,4 +84,4 @@ This command downloads all the required packages for your Flutter project to run
 flutter run
 ```
 
-This starts the FindIt app on your connected device or emulator.
+This starts the Movie app on your connected device or emulator.
