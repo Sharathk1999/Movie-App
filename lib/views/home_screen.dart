@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
   List movies = [];
  
 
-  List screens = [
+  List screens =const [
     HomeScreen(),
     SearchScreen(),
   ];

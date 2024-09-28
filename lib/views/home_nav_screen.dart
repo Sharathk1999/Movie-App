@@ -17,7 +17,7 @@ class _HomeNavScreenState extends State<HomeNavScreen> {
 List movies = [];
   int selectedIndex = 0;
 
-  List screens = [
+  List screens = const[
     HomeScreen(),
     SearchScreen(),
   ];
